@@ -32,4 +32,4 @@ function onInputTypeIn(event) {
   }
   clearCoutries();
 }
-//.щ
+//.
